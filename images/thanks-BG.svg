@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.077" y1="1.64" x2="1.05" y2="0.936" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d50707"/>
+      <stop offset="1" stop-color="#980c4c"/>
+    </linearGradient>
+    <clipPath id="clip-Red_BG">
+      <rect width="1600" height="900"/>
+    </clipPath>
+  </defs>
+  <g id="Red_BG" data-name="Red BG" clip-path="url(#clip-Red_BG)">
+    <rect width="1600" height="900" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M9.948,133.392l1672.465,90.534L1627-460.674,1663.015-684.6s-70.549,153.289-406.423,153.289c-211.936,0-411.257-24.233-612.234-26.827-117.435-1.516-235.476,4.369-356.906,26.827C-41.628-470.449-59.723-287.861-59.723-287.861Z" transform="translate(-8 1002)" fill="#ff4545"/>
+    <path id="Path_2" data-name="Path 2" d="M-37.428,137.758C402.971,265.553,1682.413,186.8,1682.413,186.8L1627-497.8v-165s-115.952-49.058-458.648,0S567.4-529.113,256.216-466.566s-335.4,142.191-335.4,142.191S-477.827,9.963-37.428,137.758Z" transform="translate(22 1006.122)" opacity="0.9" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
